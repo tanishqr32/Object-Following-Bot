@@ -1,10 +1,10 @@
-# 🛰️ Object-Following Bot (MakerNova 2.0)
+# 🛰️ Object-Following Bot
 
 > **Real-time YOLO-powered rover that locks onto a target and never lets go**  
-> Python + OpenCV + PyTorch on an **RTX 4050 laptop GPU**, talking over **PySerial** to an **Arduino Mega** that drives twin DC motors through a **20 A Rhino H-bridge**. Built by the MakerNova 2.0 team for autonomous tracking, navigation and pure robotics fun. :contentReference[oaicite:0]{index=0}
+> Python + OpenCV + PyTorch on an **RTX GPU**, talking over **PySerial** to an **Arduino Mega** that drives twin DC motors through a **20 A Rhino H-bridge**. Built for autonomous tracking, navigation and pure robotics fun. :contentReference[oaicite:0]{index=0}
 
 <p align="center">
-  <img src="docs/demo.gif" width="680" alt="demo gif"/>
+  <img src="Media/bot.jpeg" width="680" alt="demo gif"/>
 </p>
 
 [![Build YOLO model](https://img.shields.io/badge/YOLOv8-custom--trained-ff69b4?logo=yolov5&logoColor=white)](#model-training)  
